@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: account-payment (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-24 00:13+0000\n"
-"PO-Revision-Date: 2017-06-30 08:53+0000\n"
+"POT-Creation-Date: 2017-09-02 00:58+0000\n"
+"PO-Revision-Date: 2017-09-22 23:14+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/oca/OCA-account-payment-8-0/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr ""
 #. module: account_payment_return
 #: view:payment.return:account_payment_return.payment_return_form_view
 msgid "Cancel"
-msgstr ""
+msgstr "Verwijderen"
 
 #. module: account_payment_return
 #: selection:payment.return,state:0
@@ -61,13 +61,13 @@ msgstr ""
 #: field:payment.return,create_uid:0 field:payment.return.line,create_uid:0
 #: field:payment.return.reason,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Aangemaakt door"
 
 #. module: account_payment_return
 #: field:payment.return,create_date:0 field:payment.return.line,create_date:0
 #: field:payment.return.reason,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Aangemaakt op"
 
 #. module: account_payment_return
 #: field:payment.return.line,partner_id:0
@@ -140,7 +140,7 @@ msgstr ""
 #. module: account_payment_return
 #: model:ir.model,name:account_payment_return.model_account_invoice
 msgid "Invoice"
-msgstr ""
+msgstr "Factuur"
 
 #. module: account_payment_return
 #: help:account.invoice,returned_payment:0
@@ -179,13 +179,13 @@ msgstr "Laatst gewijzigd op"
 #: field:payment.return,write_uid:0 field:payment.return.line,write_uid:0
 #: field:payment.return.reason,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Laatst bijgewerkt door"
 
 #. module: account_payment_return
 #: field:payment.return,write_date:0 field:payment.return.line,write_date:0
 #: field:payment.return.reason,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Laatst bijgewerkt op"
 
 #. module: account_payment_return
 #: field:payment.return,line_ids:0
@@ -281,7 +281,7 @@ msgstr ""
 #. module: account_payment_return
 #: field:payment.return,name:0 field:payment.return.line,reference:0
 msgid "Reference"
-msgstr ""
+msgstr "Referentie"
 
 #. module: account_payment_return
 #: help:payment.return.line,reference:0
@@ -327,7 +327,7 @@ msgstr ""
 #. module: account_payment_return
 #: field:payment.return,state:0
 msgid "State"
-msgstr ""
+msgstr "Provincie"
 
 #. module: account_payment_return
 #: field:payment.return,message_summary:0
